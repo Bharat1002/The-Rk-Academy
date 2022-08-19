@@ -1,4 +1,4 @@
-# [The Rk Academy](https://the-rk-academy.netlify.app/) - A Website For Educational Organization
+# [The Rk Academy](https://the-rk-academy.netlify.app/) - ## A Website For Educational Organization
 
 
 ## Project Overview
